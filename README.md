@@ -656,7 +656,7 @@ in all copies.
 
 **🗼 Made with ❤️ and ☕ for the love of Paris**
 
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/paris-experiences-tours?style=social)](https://github.com)
+[![GitHub Stars](https://img.shields.io/github/stars/Prem759-0/paris-experiences-tours?style=social)](https://github.com)
 
 *Vive Paris! ✨ Discover the City of Light like never before.*
 
